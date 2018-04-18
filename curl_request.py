@@ -7,6 +7,6 @@ headers = {
     'Content-Type': 'application/json',
 }
 
-data = '{"userId":"1", "username":"roman b3zz"}'
+data = '{"userId":"1", "username":"User some_data"}'
 
-response = requests.post('http://192.168.19.14:9090/foo', headers=headers, data=data)
+response = requests.post('http://127.0.0.1:9090/foo', headers=headers, data=data)

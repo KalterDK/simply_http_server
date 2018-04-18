@@ -1,3 +1,1 @@
-{"userId":"1", "username":"roman b3zz"}
-{"userId":"1", "username":"roman b3zz"}
-{"userId": "1", "username": "dmitry aaaa"}
+{"userId":"1", "username":"User some_data"}
