@@ -1,0 +1,6 @@
+Python HTTP-Server:
+
+curl_request.py - sends data.
+server.py - receives data and writes it to the file data.txt.
+
+Example: curl -i -H "Content-Type: application/json" -X POST -d '{"userId":"1", "username": "roman b3zz"}' http://127.0.0.1:9090/foo
